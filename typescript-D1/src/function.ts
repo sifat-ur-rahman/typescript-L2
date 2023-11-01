@@ -21,3 +21,8 @@ const newUser ={
         return `His new age is: ${this.age + age}`
     }
 }
+
+
+const arr : number[]= [1,2,3]
+
+const newArr = arr.map((elem:number):number => elem*elem)
