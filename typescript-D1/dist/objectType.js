@@ -1,5 +1,7 @@
 "use strict";
 const user = {
+    home: 'bangladesh',
     firstName: 'sifat',
-    lastName: 'Rahman'
+    lastName: 'Rahman',
+    isMarried: false
 };
