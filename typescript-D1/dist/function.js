@@ -14,4 +14,5 @@ const newUser = {
     }
 };
 const arr = [1, 2, 3];
+const numArr = [5, 8, 3];
 const newArr = arr.map((elem) => elem * elem);

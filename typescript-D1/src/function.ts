@@ -24,5 +24,6 @@ const newUser ={
 
 
 const arr : number[]= [1,2,3]
+const numArr : number[]= [5,8,3]
 
 const newArr = arr.map((elem:number):number => elem*elem)
