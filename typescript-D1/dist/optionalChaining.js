@@ -2,7 +2,7 @@
 var _a, _b;
 {
     const user = {
-        name: 'putul',
+        name: 'sifat',
         address: {
             city: 'khulna',
             road: '27 RN ',

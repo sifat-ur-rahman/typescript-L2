@@ -9,4 +9,5 @@ d = 520;
 //Array 
 let friends = ['putul', 'sifat'];
 //tuple --> array --> order --> type of values
-let ageName = [50, 'mir'];
+let ageName = [50, 'sifat'];
+console.log({ ageName });
