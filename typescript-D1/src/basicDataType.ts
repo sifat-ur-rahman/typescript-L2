@@ -18,4 +18,7 @@ let friends : string[]= ['putul', 'sifat']
 
 //tuple --> array --> order --> type of values
 
-let ageName :[number, string]  = [50, 'mir']
+let ageName :[number, string]  = [50, 'sifat']
+
+console.log({ageName})
+
