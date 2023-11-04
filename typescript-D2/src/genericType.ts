@@ -12,7 +12,27 @@
     const name2 : GenericArray<string> = ['sifat','putul']
 
 
-    
+
+    interface User {
+
+    name: string;
+    age: number;
+    }
+
+
+
+    const user : GenericArray<User> =[
+        {
+            name: 'sifat',
+            age: 24,
+        },
+        {
+            name: 'putul',
+            age:17 
+        }
+    ]
+
+
 
 
 
