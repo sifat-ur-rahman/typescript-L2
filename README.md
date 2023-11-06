@@ -1,10 +1,10 @@
 # Typescript
 
-###1. Basic Types in TypeScript
-###2. Advanced Types in TypeScript
-###3. Object-Oriented Programming with TypeScript
+### 1. Basic Types in TypeScript
+### 2. Advanced Types in TypeScript
+### 3. Object-Oriented Programming with TypeScript
 
-###Let's explore some awesome benefits of using TypeScript:
+## Let's explore some awesome benefits of using TypeScript:
 
 => Improved code quality and maintainability through strong typing and syntax checking
 => Better scalability and performance due to improved code organization and modularity
