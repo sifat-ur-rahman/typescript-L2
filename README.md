@@ -12,4 +12,4 @@
 => Easier debugging and error reporting with built-in tools like the TypeScript debugger.\
 => Support for modern web development technologies like ES6+ modules and decorators.\
 => Integration with popular frameworks and libraries like Angular and React.\
-=> Improved productivity through faster compile times and better tooling support.\
+=> Improved productivity through faster compile times and better tooling support
