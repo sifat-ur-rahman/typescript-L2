@@ -6,7 +6,7 @@
 
 ## Let's explore some awesome benefits of using TypeScript:
 
-=> Improved code quality and maintainability through strong typing and syntax checking./
+=> Improved code quality and maintainability through strong typing and syntax checking/.
 => Better scalability and performance due to improved code organization and modularity
 => Enhanced security features such as null and undefined handling, which can help prevent common programming errors
 => Easier debugging and error reporting with built-in tools like the TypeScript debugger
